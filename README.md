@@ -1,5 +1,15 @@
 # mobileironAPI
-Small and handy collection of script, which allows to interact with MobileIron 
+Small and handy script, which allows to interact with MobileIron to gather various information about the User, such as:
+  User activated/enabled
+  E-Mail-Address
+  Displayname
+  
+  Device-Type per User
+  Last Connection of User-Device
+  In Quarantine ?
+  Registration Date of User-Device
+  
+  --> Output can be found in the userAPI.log and Standard-Output
 
 
 Prerequisites:
