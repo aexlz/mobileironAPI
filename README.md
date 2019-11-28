@@ -12,7 +12,7 @@ Small and handy script, which allows to interact with MobileIron to gather vario
   --> Output can be found in the userAPI.log and Standard-Output
 
 
-Prerequisites:
+##Prerequisites:
 - Python 3.7.2 installed
 - Local MobileIron-Admin-User on Core:
   1. From the Admin Portal, select Admin > Admins.
@@ -21,13 +21,13 @@ Prerequisites:
   4. Select the ‘API’ role, which is listed under Others.
   5. Click Save.
   
-  Username/Password
+  ###Username/Password
       The web service requires authentication via username and password:
       Username: Username of any local or LDAP user who has the ‘API’ role.
       Password: The same password used to login to MobileIron Core the Admin Portal.
       
       
-  Usage:
+ ## Usage:
     userAPI.py -h 
     
     
