@@ -7,7 +7,7 @@ import time
 import json
 import html
 # Logging
-logging.basicConfig(filename='anwenderServiceToolbox.log', format='%(asctime)s %(message)s', level=logging.INFO)
+logging.basicConfig(filename='userAPI.log', format='%(asctime)s %(message)s', level=logging.INFO)
 
 # Parsing Arguments
 parser = argparse.ArgumentParser(description='Retrieves various information about user and related devices from MobileIron API')
