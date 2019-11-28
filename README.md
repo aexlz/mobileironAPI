@@ -1,5 +1,5 @@
 # mobileironAPI
-Small and handy script, which allows to interact with MobileIron to gather various information about the User, such as:
+Small and handy script, which allows to interact with MobileIron to gather various information about an user, such as:
   - User activated/enabled
   - E-Mail-Address
   - Displayname
